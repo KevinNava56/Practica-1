@@ -1,0 +1,12 @@
+a= 10
+b= 5
+c= "Hola"
+d= "Adios"
+print(c + d)
+print(b*5)
+Creating a new file in Practica-1
+BreadcrumbsPractica-1
+/
+Name your file...
+in
+main
